@@ -86,3 +86,7 @@ pip install opencv-python numpy matplotlib imutils
 ## Notes
 - The script removes existing files in the `output` directory before running.
 - Ensure the input images have overlapping regions for accurate stitching.
+
+
+## Documentation
+The report for this assignment can be found [here](report.pdf).
